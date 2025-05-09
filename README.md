@@ -10,6 +10,7 @@ A simple and responsive Kitchen Website built using HTML and CSS. This website p
 ## ⚙️ Tech Stack
 - HTML: Used for the structure of the website.
 - CSS: Used for styling the website (with custom styles and possibly Flexbox or CSS Grid for layout).
+- JavaScript: for dynamic interactions and animations
 
 ## Screenshot
 ![kitchen](https://github.com/user-attachments/assets/e3abe42e-bfae-4477-b323-1273096d8882)
